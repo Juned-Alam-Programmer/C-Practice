@@ -1,0 +1,4 @@
+
+# inogring executable files
+*.exe
+.vscode
